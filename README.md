@@ -3,6 +3,8 @@
 这是基于 [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) 的 Windows x64 定制预览版，非原作者官方发行版。
 保留原作者 cc 的署名及 CC BY-NC-SA 4.0 许可；第三方组件遵循包内各自许可。
 
+[下载最新 Windows 安装包](https://github.com/LumingMelody/WeFlow-Windows/releases/latest)
+
 ## 用户使用
 
 首次下载安装 `WeFlow-Windows-x64-版本号-Setup.exe`，退出旧的解压版后再启动安装版。
@@ -14,6 +16,7 @@
 
 网络失败会显示错误，不会显示为“最新版”；GitHub 无法访问时，请稍后重试。
 当前安装包未进行 Windows 代码签名。Windows 安装、自动替换及微信 4.2.0.9 实机读取仍待验证。
+本版仍不支持获取图片 XOR/AES 密钥；可跳过图片密钥步骤读取文字消息。
 
 ## 维护者发布
 
